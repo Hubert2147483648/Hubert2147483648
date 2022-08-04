@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate with fast_photon
 - 🤔 I’m looking for help with my homework……
 - ⚡ Fun fact: ~~I`m very silly~~
-[my luogu page](https://www.luogu.com.cn/user/468574)
+- [my luogu page](https://www.luogu.com.cn/user/468574)
